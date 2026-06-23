@@ -1,4 +1,4 @@
-![Banner](Banner)
+![Banner](Banner(1).png)
 
 # Data Projects
 
