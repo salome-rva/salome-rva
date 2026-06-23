@@ -7,4 +7,5 @@ Interactive dashboard built in Looker Studio to monitor gender equality indicato
 
 [View the Dashboard](https://lookerstudio.google.com/s/sIpz7YQtjcI)
 
-
+## 📌 Project 2: Human Ressources 
+Interactive dashboard built in Tableau
