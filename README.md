@@ -6,7 +6,7 @@ Interactive dashboard built in PowerBI to monitor gender equality indicators ali
 
 [View the Dashboard](https://lookerstudio.google.com/s/sIpz7YQtjcI)
 
-##🔹 2. Real Estate NY Project
+## 🔹 2. Real Estate NY Project
 - ETL -
 
 
