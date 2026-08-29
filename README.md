@@ -6,15 +6,18 @@ Interactive dashboard built in PowerBI to monitor gender equality indicators ali
 
 [View the Dashboard](https://lookerstudio.google.com/s/sIpz7YQtjcI)
 
-# 🔹 2. Real Estate NY Project
-- ETL -
+# 🔹 2. Brooklyn Real Estate
 
-## Modèle dimensionnel
+- ETL - Dimensional Modeling - Data Vizualization -
 
-Schéma en étoile composé de FACT_Sales, DIM_Date, DIM_Geo et DIM_Attributes.
+## Dimensional Modeling
+
+- Star Schema composed of FACT_Sales, DIM_Date, DIM_Geo & DIM_Attributes (DrawDB) -
 
 ![Star schema](Diagram_rolling_sales.png)
 
-[View the Dimensional Modelling]
+- ETL Process & primary analyses on SQL Server Management Studio -
+
+# Full script available here
 
 [View the SQL Tables]
