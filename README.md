@@ -18,6 +18,6 @@ Interactive dashboard built in PowerBI to monitor gender equality indicators ali
 
 - ETL Process & primary analyses on SQL Server Management Studio
 
-# Full script available here
+### Full script available here
 
 [View the SQL Tables]
