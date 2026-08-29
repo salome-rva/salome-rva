@@ -22,6 +22,6 @@ Interactive dashboard built in PowerBI to monitor gender equality indicators ali
 
 ### Visualization & Analysis of Data on Tableau Public
 
-(
+(Capture d'écran 2026-08-29 135226.png)
 
-[Interactive Dashboard available here](
+[Interactive Dashboard available here]
