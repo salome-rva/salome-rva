@@ -6,7 +6,11 @@ Interactive dashboard built in PowerBI to monitor gender equality indicators ali
 
 [View the Dashboard](https://lookerstudio.google.com/s/sIpz7YQtjcI)
 
-# 🔹 2. Brooklyn Real Estate
+# 🔹 2. Brooklyn Real Estate Project
+
+Analysis of ~9,800 residential property sales in Brooklyn, based on open data from the NYC Department of Finance ![DataSource](https://www.nyc.gov/site/finance/property/property-rolling-sales-data.page).The project covers the full data pipeline: extracting the raw file & cleaning it in SQL Server, modeling it as a star schema (one fact table, three dimensions), then analyzing the data and building an interactive Tableau dashboard.
+
+Core business question: what is the median price per neighborhood, and how do prices vary across space and time?
 
 ## - ETL - Dimensional Modeling - Data Vizualization -
 
