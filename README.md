@@ -24,6 +24,6 @@ Interactive dashboard built in PowerBI to monitor gender equality indicators ali
 
 ![Dashboard](Dashboard_Rolling_Sales.png)
 
-![Insights](Insights_Rolling_Sales)
+![Insights](Insights_Rolling_Sales.png)
 
 
