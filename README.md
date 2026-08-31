@@ -1,8 +1,6 @@
 ![Banner](Portfolio_Banner.png)
 
 # 🔹 1. Gender Equality KPI Project
-- Analytics & Visualization - 
-Interactive dashboard built in PowerBI to monitor gender equality indicators aligned with the Sustainable Development Goals set by the UN.
 
 Analysis of gender equality in the workplace across the 27 EU member states, based on open data from Eurostat's Sustainable Development Goals dataset (https://ec.europa.eu/eurostat/web/sdi/database). The project covers the full data pipeline: extracting and cleaning the data in Power Query, star schema modeling (one fact table, three dimensions) and building an interactive Power BI dashboard based on several custom KPIs of gender equality.
 
@@ -14,7 +12,7 @@ Core research question: how significant is the workplace gender equality gap acr
 
 - Star Schema composed of FACT_Sales, DIM_Date, DIM_Geo & DIM_Attributes
 
-![Star schema](Diagram_rolling_sales.png)
+![Star schema](Star_Schema_Gender_Equality.png)
 
 # 🔹 2. Brooklyn Real Estate Project
 
