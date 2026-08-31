@@ -1,4 +1,4 @@
-![Banner](Banner(4).png.png)
+![Banner](Portfolio_Banner.png)
 
 # 🔹 1. Gender Equality KPI Project
 - Analytics & Visualization - 
