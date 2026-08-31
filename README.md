@@ -16,7 +16,10 @@ Core research question: how significant is the workplace gender equality gap acr
 
 ### Visualization & Analysis of Data in Power BI
 
+You can download the Power BI Project here : 
 ![Power_BI](Dashboard_Gender_Equality.pbix)
+
+#### Insights
 
 ![Context](Context.png)
 
