@@ -24,6 +24,8 @@ Core research question: how significant is the workplace gender equality gap acr
 
 ![Salary](Salary.png)
 
+![Governance](Governance.png)
+
 ![Insights](Targets.png)
 
 # 🔹 2. Brooklyn Real Estate Project
