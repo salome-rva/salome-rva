@@ -16,7 +16,7 @@ Core research question: how significant is the workplace gender equality gap acr
 
 ### Visualization & Analysis of Data in Power BI
 
-![Power_BI](KPI_Trial(1).pbix)
+![Power_BI](KPI_Trial_(1).pbix)
 
 ![Context](Context.png)
 
