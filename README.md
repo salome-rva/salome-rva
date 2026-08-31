@@ -10,9 +10,21 @@ Core research question: how significant is the workplace gender equality gap acr
 
 ### Dimensional Modeling in Power BI
 
-- Star Schema composed of FACT_Sales, DIM_Date, DIM_Geo & DIM_Attributes
+- Star Schema composed of FACT_Indicators_Gender_Equality, DIM_Date, DIM_Country & DIM_Indicator
 
 ![Star schema](Schema_Gender_Equality.png)
+
+### Visualization & Analysis of Data in Power BI
+
+![Power_BI](KPI_Trial(1).pbix)
+
+![Context](Context.png)
+
+![Employment](Employment.png)
+
+![Salary](Salary.png)
+
+![Insights](Targets.png)
 
 # 🔹 2. Brooklyn Real Estate Project
 
