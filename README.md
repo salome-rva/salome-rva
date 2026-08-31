@@ -12,7 +12,7 @@ Core research question: how significant is the workplace gender equality gap acr
 
 - Star Schema composed of FACT_Sales, DIM_Date, DIM_Geo & DIM_Attributes
 
-![Star schema](Star_Schema_Gender_Equality.png)
+![Star schema](Schema_Gender_Equality.png)
 
 # 🔹 2. Brooklyn Real Estate Project
 
