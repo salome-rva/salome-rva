@@ -1,4 +1,4 @@
-![Banner](Portfolio_Banner.png)
+![Banner](Banner_Portfolio.png)
 
 # 🔹 1. Gender Equality KPIs Project
 
