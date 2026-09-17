@@ -31,7 +31,10 @@ You can download the Power BI Project here :
 
 ![Insights](Targets.png)
 
-# 🔹 2. Brooklyn Real Estate Project
+# 🔹 2. GParis real estate & urban sustainability
+
+
+# 🔹 3. Brooklyn Rolling Sales
 
 Analysis of the residential property sales in Brooklyn, based on open data from the NYC Department of Finance (https://www.nyc.gov/site/finance/property/property-rolling-sales-data.page). The project covers the full data pipeline: extracting & cleaning the files in SQL Server, star schema modeling (one fact table, three dimensions), then analyzing the data and building an interactive Tableau dashboard.
 
