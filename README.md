@@ -31,7 +31,7 @@ You can download the Power BI Project here :
 
 ![Insights](Targets.png)
 
-# ‣ 2. Paris real estate & urban sustainability
+# ‣ 2. Paris Real Estate & Urban Sustainability
 
 
 # ‣ 3. Brooklyn Real Estate
