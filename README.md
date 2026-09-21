@@ -33,6 +33,8 @@ You can download the Power BI Project here :
 
 # ‣ 2. Paris Real Estate & Urban Sustainability
 
+You can download the Power BI Project here : 
+![Power_BI](Project_Paris_Sustainability.pbix)
 
 # ‣ 3. Brooklyn Real Estate
 
