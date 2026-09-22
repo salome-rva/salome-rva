@@ -34,9 +34,14 @@
 
 # ‣ 1. Gender Equality KPIs Project
 
+> **🔗 Live dashboard:** _publie sur Power BI (File → Embed report → Publish to web) et colle le lien ici_
+> **⬇ Power BI file:** [Dashboard_Gender_Equality.pbix](Dashboard_Gender_Equality.pbix)
+
+## Context
 Analysis of gender equality in the workplace across the 27 EU member states, based on open data from Eurostat's Sustainable Development Goals dataset (https://ec.europa.eu/eurostat/web/sdi/database). The project covers the full data pipeline: extracting and cleaning the data in Power Query, star schema modeling (one fact table, three dimensions) and building an interactive Power BI dashboard based on several custom KPIs of gender equality.
 
-Core research question: how significant is the workplace gender equality gap across the EU countries and which countries lead or lag?
+## Research question
+How significant is the workplace gender equality gap across the EU countries and which countries lead or lag?
 
 ## - ETL - Dimensional Modeling - Data Vizualization -
 
