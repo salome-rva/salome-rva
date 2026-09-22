@@ -24,9 +24,9 @@
 
 | # | Project | Stack | Focus |
 |---|---------|-------|-------|
-| 01 | [Gender Equality KPIs](#1-gender-equality-kpis) | Power BI · DAX · Power Query | EU workplace gender gap |
-| 02 | [Paris Real Estate & Urban Sustainability](#2-paris-real-estate--urban-sustainability) | Power BI | Prices vs. sustainability |
-| 03 | [Brooklyn Real Estate](#3-brooklyn-real-estate) | SQL Server · Tableau | Property sales analysis |
+| 01 | [Gender Equality KPIs](#1-gender-equality-kpis) | SQL · Power BI | Workplace Gender Inequalities in the EU |
+| 02 | [Paris Real Estate & Urban Sustainability](#2-paris-real-estate--urban-sustainability) | Python · SQL · Power BI | Real Estate Sales Analysis & Urban Sustainability Distribution |
+| 03 | [Brooklyn Real Estate](#3-brooklyn-real-estate) | SQL · Tableau | Property Sales Analysis |
 
 > All three projects are built on **open, public data**, so every result is fully reproducible.
 
