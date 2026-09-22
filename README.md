@@ -18,6 +18,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-A21B1B?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-A21B1B?style=flat-square&logo=microsoftexcel&logoColor=white)
 
+---
+
+## Projects
 
 # ‣ 1. Gender Equality KPIs Project
 
