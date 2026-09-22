@@ -17,7 +17,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-A21B1B?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-A21B1B?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Contact** · [LinkedIn]([https://www.linkedin.com/in/salomé-rolland-4b8888425/]) · [rollandsalome@gmail.com](mailto:rollandsalome@gmail.com)
+**Contact** · [LinkedIn](https://www.linkedin.com/in/salomé-rolland-4b8888425/) · [rollandsalome@gmail.com](mailto:rollandsalome@gmail.com)
 
 # ‣ 1. Gender Equality KPIs Project
 
