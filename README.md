@@ -2,13 +2,15 @@
 
 # Salomé Rolland - Data Analyst
 
+**Contact** · [LinkedIn](https://www.linkedin.com/in/salomé-rolland-4b8888425/) · [rollandsalome@gmail.com](mailto:rollandsalome@gmail.com)
+
 > Bringing data and behavioral science together to drive better decisions
 
 ![Le Wagon](https://img.shields.io/badge/Certified-Le_Wagon-A21B1B?style=flat-square)
 ![Digitalcity Brussels](https://img.shields.io/badge/Certified-Digitalcity_Brussels-A21B1B?style=flat-square)
 ![Location](https://img.shields.io/badge/Brussels-_Mobility_Paris-1A2744?style=flat-square)
 
-**Toolbox**
+> Toolbox
 
 ![Power BI](https://img.shields.io/badge/Power_BI-A21B1B?style=flat-square&logo=powerbi&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-A21B1B?style=flat-square)
@@ -17,7 +19,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-A21B1B?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-A21B1B?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Contact** · [LinkedIn](https://www.linkedin.com/in/salomé-rolland-4b8888425/) · [rollandsalome@gmail.com](mailto:rollandsalome@gmail.com)
 
 # ‣ 1. Gender Equality KPIs Project
 
