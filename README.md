@@ -2,11 +2,11 @@
 
 # Salomé Rolland - Data Analyst
 
-> Bringing data and behavioral science together to drive better decisions - 
+> Bringing data and behavioral science together to drive better decisions
 
 ![Le Wagon](https://img.shields.io/badge/Certified-Le_Wagon-A21B1B?style=flat-square)
 ![Digitalcity Brussels](https://img.shields.io/badge/Certified-Digitalcity_Brussels-A21B1B?style=flat-square)
-![Location](https://img.shields.io/badge/Brussels-·_Mobility_Paris-1A2744?style=flat-square)
+![Location](https://img.shields.io/badge/Brussels-_Mobility_Paris-1A2744?style=flat-square)
 
 **Toolbox**
 
