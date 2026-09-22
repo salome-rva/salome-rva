@@ -1,5 +1,9 @@
 ![Banner](Banner_Gr.png)
 
+![Le Wagon](https://img.shields.io/badge/Certified-Le_Wagon-A21B1B?style=flat-square)
+![Digitalcity Brussels](https://img.shields.io/badge/Certified-Digitalcity_Brussels-A21B1B?style=flat-square)
+![Location](https://img.shields.io/badge/Brussels-·_Mobility_Paris-1A2744?style=flat-square)
+
 # ‣ 1. Gender Equality KPIs Project
 
 Analysis of gender equality in the workplace across the 27 EU member states, based on open data from Eurostat's Sustainable Development Goals dataset (https://ec.europa.eu/eurostat/web/sdi/database). The project covers the full data pipeline: extracting and cleaning the data in Power Query, star schema modeling (one fact table, three dimensions) and building an interactive Power BI dashboard based on several custom KPIs of gender equality.
