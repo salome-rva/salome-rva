@@ -36,7 +36,6 @@ All three projects are built on **open, public data**, so every result is fully 
 
 # ‣ 1. Gender Equality KPIs Project
 
-> **🔗 Live dashboard:** _publie sur Power BI (File → Embed report → Publish to web) et colle le lien ici_
 > **⬇ Power BI file:** [Dashboard_Gender_Equality.pbix](Dashboard_Gender_Equality.pbix)
 
 ## Context
