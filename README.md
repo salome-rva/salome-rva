@@ -2,9 +2,11 @@
 
 # Salomé Rolland - Data Analyst
 
-**Contact** · [LinkedIn](https://www.linkedin.com/in/salomé-rolland-4b8888425/) · [rollandsalome@gmail.com](mailto:rollandsalome@gmail.com)
+**Contact**
 
-> Bringing data and behavioral science together to drive better decisions
+[LinkedIn](https://www.linkedin.com/in/salomé-rolland-4b8888425/) · [rollandsalome@gmail.com](mailto:rollandsalome@gmail.com)
+
+**Bringing data and behavioral science together to drive better decisions**
 
 ![Le Wagon](https://img.shields.io/badge/Certified-Le_Wagon-A21B1B?style=flat-square)
 ![Digitalcity Brussels](https://img.shields.io/badge/Certified-Digitalcity_Brussels-A21B1B?style=flat-square)
