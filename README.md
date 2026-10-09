@@ -30,7 +30,7 @@ Bringing data and behavioral science together to drive better decisions
 | 02 | [Paris Real Estate & Urban Sustainability](#2-paris-real-estate--urban-sustainability) | Python · SQL · Power BI | Real Estate Sales Analysis & Urban Sustainability Distribution |
 | 03 | [Brooklyn Real Estate](#3-brooklyn-real-estate) | SQL · Tableau | Property Sales Analysis |
 
-> All three projects are built on **open, public data**, so every result is fully reproducible.
+All three projects are built on **open, public data**, so every result is fully reproducible.
 
 ---
 
