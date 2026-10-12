@@ -92,7 +92,7 @@ Which areas of Paris concentrate investment opportunities that are both sustaina
 
 ### Dimensional Modeling in Power BI
 
-- Snowflake schema compossed of
+Snowflake schema composed of:
   - Fact tables: FACT_Transaction (property sales), FACT_Loyer (rents), FACT_Equipement (sustainable amenities)
   - Dimensions tables: DIM_Geo (arrondissement & IRIS), DIM_quartier, DIM_Date, DIM_Bien (property type)
 
