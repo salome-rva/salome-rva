@@ -36,7 +36,7 @@ All three projects are built on **open, public data**, so every result is fully 
 
 # ‣ 1. Gender Equality KPIs Project
 
-> **⬇ Power BI file:** [Dashboard_Gender_Equality.pbix](Dashboard_Gender_Equality.pbix)
+**⬇ Power BI file:** [Dashboard_Gender_Equality.pbix](Project_1_Gender_Equality_SR.pbix)
 
 ## Context
 Analysis of gender equality in the workplace across the 27 EU member states, based on open data from Eurostat's Sustainable Development Goals dataset (https://ec.europa.eu/eurostat/web/sdi/database). The project covers the full data pipeline: extracting and cleaning the data in Power Query, star schema modeling (one fact table, three dimensions) and building an interactive Power BI dashboard based on several custom KPIs of gender equality.
@@ -59,20 +59,23 @@ You can download the Power BI Project here :
 
 #### Insights
 
-![Context](Context.png)
+![Intro](Pr1_1.png)
 
-![Employment](Employment.png)
+![Context](Pr1_2.png)
 
-![Salary](Salary.png)
+![Engineering](Pr1_3.png)
 
-![Governance](Governance.png)
+![Employment](Pr1_4.png)
 
-![Insights](Targets.png)
+![Salary](Pr1_5.png)
+
+![Salary](Pr1_6.png)
+
+![Salary](Pr1_7.png)
 
 # ‣ 2. Paris Real Estate & Urban Sustainability
 
-You can download the Power BI Project here : 
-![Power_BI](Project_Paris_Sustainability.pbix)
+**⬇ Power BI file:** [Dashboard_Paris_Sustainability.pbix](Project_2_Paris_Sustainability_SR.pbix)
 
 # ‣ 3. Brooklyn Real Estate
 
