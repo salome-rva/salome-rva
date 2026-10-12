@@ -48,14 +48,13 @@ How significant is the workplace gender equality gap across the EU countries and
 
 ### Dimensional Modeling in Power BI
 
-- Star Schema composed of FACT_Indicators_Gender_Equality, DIM_Date, DIM_Country & DIM_Indicator
+Star Schema composed of :
+- Fact table: FACT_Indicators_Gender_Equality
+- Dimension tables: DIM_Date, DIM_Country & DIM_Indicator
 
 ![Star schema](Schema_Gender_Equality.png)
 
 ### Visualization & Analysis of Data in Power BI
-
-You can download the Power BI Project here : 
-![Power_BI](Dashboard_Gender_Equality.pbix)
 
 #### Insights
 
@@ -76,6 +75,30 @@ You can download the Power BI Project here :
 # ‣ 2. Paris Real Estate & Urban Sustainability
 
 **⬇ Power BI file:** [Dashboard_Paris_Sustainability.pbix](Project_2_Paris_Sustainability_SR.pbix)
+
+## Context
+Analysis of the Paris housing market through the lens of urban sustainability, aimed at locating areas that combine investment potential with sustainable living across the city's arrondissements and neighbourhoods. 
+The project is mainly built on open data from the City of Paris (Paris Open Data) or French Open Data.
+The project covers the full data analytics pipeline: extracting and cleaning the data in Power Query, dimensional modeling, and building an interactive Power BI dashboard.
+
+## Research question
+Which areas of Paris concentrate investment opportunities that are both sustainable and profitable?
+- Where are the best real-estate investment opportunities located across Paris?
+- Are the most sustainable arrondissements also the most expensive?
+
+## - ETL - Dimensional Modeling - Data Vizualization -
+
+### Dimensional Modeling in Power BI
+
+- Snowflake schema compossed of
+  - Fact tables: FACT_Transaction (property sales), FACT_Loyer (rents), FACT_Equipement (sustainable amenities)
+  - Dimensions tables: DIM_Geo (arrondissement & IRIS), DIM_quartier, DIM_Date, DIM_Bien (property type)
+
+![Star schema](Schema_Paris_Sustainability.png)
+
+### Visualization & Analysis of Data in Power BI
+
+#### Insights
 
 # ‣ 3. Brooklyn Real Estate
 
