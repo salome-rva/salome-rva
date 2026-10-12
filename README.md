@@ -102,6 +102,20 @@ Which areas of Paris concentrate investment opportunities that are both sustaina
 
 #### Insights
 
+![Intro](Pr2_1.png)
+
+![Context](Pr2_2.png)
+
+![Engineering](Pr2_3.png)
+
+![Employment](Pr2_4.png)
+
+![Salary](Pr2_5.png)
+
+![Salary](Pr2_6.png)
+
+![Salary](Pr2_7.png)
+
 # ‣ 3. Brooklyn Real Estate
 
 Analysis of the residential property sales in Brooklyn, based on open data from the NYC Department of Finance (https://www.nyc.gov/site/finance/property/property-rolling-sales-data.page). The project covers the full data pipeline: extracting & cleaning the files in SQL Server, star schema modeling (one fact table, three dimensions), then analyzing the data and building an interactive Tableau dashboard.
