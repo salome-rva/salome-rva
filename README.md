@@ -42,7 +42,9 @@ All three projects are built on **open, public data**, so every result is fully 
 Analysis of gender equality in the workplace across the 27 EU member states, based on open data from Eurostat's Sustainable Development Goals dataset (https://ec.europa.eu/eurostat/web/sdi/database). The project covers the full data pipeline: extracting and cleaning the data in Power Query, star schema modeling (one fact table, three dimensions) and building an interactive Power BI dashboard based on several custom KPIs of gender equality.
 
 ## Research question
-How significant is the workplace gender equality gap across the EU countries and which countries lead or lag?
+How significant is the workplace gender equality gap across the EU countries ?
+- Which areas of gender equality should be prioritized ?
+- Which countries lead or lag ?
 
 ## - ETL - Dimensional Modeling - Data Vizualization -
 
