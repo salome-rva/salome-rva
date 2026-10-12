@@ -118,9 +118,13 @@ Snowflake schema composed of:
 
 # ‣ 3. Brooklyn Real Estate
 
+## Context
 Analysis of the residential property sales in Brooklyn, based on open data from the NYC Department of Finance (https://www.nyc.gov/site/finance/property/property-rolling-sales-data.page). The project covers the full data pipeline: extracting & cleaning the files in SQL Server, star schema modeling (one fact table, three dimensions), then analyzing the data and building an interactive Tableau dashboard.
 
-Core research question: what is the median price per neighborhood, and how do prices vary across space and time?
+## Research question
+What are the best housing investment opportunities in Brooklyn?
+- What is the median price per neighborhood?
+- How do prices vary across location and time?
 
 ## - ETL - Dimensional Modeling - Data Vizualization -
 
